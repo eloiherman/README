@@ -35,7 +35,7 @@ I enjoy designing projects that combine **logic, creativity, and impact** — wh
 
 ## 🌐 Connect With Me
 
-📧 [eloiherman@outlook.com](mailto:eloiherman@outlook.com)  
+📧 [eloi.herman@mail.mcgill.ca](mailto:eloi.herman@mail.mcgill.ca)  
 💼 [LinkedIn](https://www.linkedin.com/in/eloi-herman-465602378)  
 
 ---
