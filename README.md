@@ -27,38 +27,16 @@ I enjoy designing projects that combine **logic, creativity, and impact** — wh
 
 ---
 
-## 🧮 Competitions & Achievements
-
-- 🇫🇷 **Concours Général** (History & Philosophy)  
-- 🧠 **Math en Jeans** — Research on palindromes (presented in NY 2023 & LA 2024)  
-- 💻 **Canadian Computing Competition (CCC Junior)**  
-- 🥾 **Duke of Edinburgh Award** — Led 2-day Bruce Trail expedition  
-- 🤝 **Trauma Practice Canada** — Volunteer translator (EN ⇄ FR)
-
----
-
 ## 🧰 Tech Stack
 
 | Languages | Frameworks | Tools | Interests |
 |------------|-------------|--------|------------|
 | Python · C · JavaScript | Flask · SQLite · HTML/CSS | Git · VS Code | Cybersecurity · AI · FinTech |
 
----
-
-## 📈 Currently Working On
-
-- 🎓 Completing **CS50x** and developing full-stack Flask apps  
-- 💼 Applying to **McGill Investment Club (MIC)** as Junior Analyst  
-- 📊 Learning **quantitative finance** and **algorithmic trading**
-
----
-
 ## 🌐 Connect With Me
 
 📧 [eloiherman@outlook.com](mailto:eloiherman@outlook.com)  
-💼 [LinkedIn](https://linkedin.com/in/eloiherman)  
-📸 [Instagram](https://instagram.com/yourusername) *(optional)*  
-🧭 [Portfolio Website](https://yourwebsite.com) *(optional)*  
+💼 [LinkedIn](https://www.linkedin.com/in/eloi-herman-465602378)  
 
 ---
 
